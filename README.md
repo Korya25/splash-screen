@@ -12,7 +12,9 @@ This repository demonstrates how to implement a **custom splash screen** in a Fl
 ## Screenshots:
 | **Light Mode Splash Screen** | **Dark Mode Splash Screen** |
 |------------------------------|-----------------------------|
-| ![Light Mode Splash Screen](https://github.com/user-attachments/assets/74eb4041-259e-4dab-af94-27f10162cb7f) | ![Dark Mode Splash Screen](https://github.com/user-attachments/assets/4fe2a62f-9e27-4517-a441-9405fb367da5) |
+| ![27d41fe9-e78d-414a-a05e-630bd624012a](https://github.com/user-attachments/assets/84b98157-8158-40c5-9076-954b7d808c96)| ![19fd7834-cff1-4ecf-a95c-739fcab7b3f9](https://github.com/user-attachments/assets/42449719-d70c-49ca-b073-6329db41b853)
+ |
+
 
 ## How It Works:
 1. **`flutter_native_splash` Package**:  
